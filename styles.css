@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+h1, h2{
+	text-align: center;
+}
+#song_playlist{
+	width: 90%;
+}
+li{
+	list-style-type: none;
+}
+a{
+	text-decoration-line: none;
+}
+.subdiv{
+	border-radius: 1%;
+	border: 2px solid black;
+	background-color: white;
+	margin: auto;
+}
+#Player{
+	width: 80%;
+	
+}
+
+video, audio{
+	width: 96%;
+	padding: 2%;
+}
+text{
+	margin-left: 2%;
+}
+
